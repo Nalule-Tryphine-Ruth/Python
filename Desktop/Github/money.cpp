@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+// stdio and stdlib are compulsory libraries in a c file
 
 void funds(int money){
 	int high;
