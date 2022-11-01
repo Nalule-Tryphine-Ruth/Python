@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 // stdio and stdlib are compulsory libraries in a c file
-
+// void returns nothing
 void funds(int money){
 	int high;
 	int consolation=(money*50)/100;
