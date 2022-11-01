@@ -44,6 +44,7 @@ int main(){
 		printf("3.Continue");
 		printf("4.Quit");
 		scanf("%d"&choice);
+// 		switch provides different cases necessary
 		switch(choice){
 			case 1:
 				funds(sum);
