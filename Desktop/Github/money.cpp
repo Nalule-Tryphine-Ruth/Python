@@ -23,9 +23,11 @@ void high(funds){
 			lowest=funds[i];
 		}
 	}
+// 	printf displays code onto the screen
 	printf("%d",lowest);
 	printf("%d",highest);
 }
+// main is used 
 int main(){
 	int high;
 	int place = 5;
