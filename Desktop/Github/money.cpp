@@ -3,6 +3,7 @@
 // stdio and stdlib are compulsory libraries in a c file
 // void returns nothing
 void funds(int money){
+//int defines data type for numbers
 	int high;
 	int consolation=(money*50)/100;
 	int management=(consolation*6.25)/100;
