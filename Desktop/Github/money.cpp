@@ -12,7 +12,7 @@ void funds(int money){
 	printf("%d for management",management);
 	printf("%d for nonmanagement",nonmanagement);	
 }
-
+//void returns empty function 
 void high(funds){
 	int highest=funds[0];
 	int lowest=funds[0];
@@ -25,6 +25,7 @@ void high(funds){
 		}
 	}
 // 	printf displays code onto the screen
+//%d displays a specified integer 
 	printf("%d",lowest);
 	printf("%d",highest);
 }
@@ -35,6 +36,7 @@ int main(){
 	int dancer[place];,sum=0,choice;
 	start;
 	printf("Enter the money for five places");
+//this is a for loop
 	for(int i=0;i<places;i++){
 		printf("Enter the money for a place %d",i++);
 		scanf("%d",&dancer[i]);
