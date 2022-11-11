@@ -25,6 +25,7 @@ void high(funds){
 		}
 	}
 // 	printf displays code onto the screen
+//%d displays a specified integer 
 	printf("%d",lowest);
 	printf("%d",highest);
 }
