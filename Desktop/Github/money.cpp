@@ -35,6 +35,7 @@ int main(){
 	int dancer[place];,sum=0,choice;
 	start;
 	printf("Enter the money for five places");
+//this is a for loop
 	for(int i=0;i<places;i++){
 		printf("Enter the money for a place %d",i++);
 		scanf("%d",&dancer[i]);
