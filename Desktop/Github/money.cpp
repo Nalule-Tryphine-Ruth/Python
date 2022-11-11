@@ -12,7 +12,7 @@ void funds(int money){
 	printf("%d for management",management);
 	printf("%d for nonmanagement",nonmanagement);	
 }
-
+//void returns empty function 
 void high(funds){
 	int highest=funds[0];
 	int lowest=funds[0];
