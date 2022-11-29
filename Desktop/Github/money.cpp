@@ -51,6 +51,7 @@ int main(){
 // 		for a certain to be met in a code
 		switch(choice){
 			case 1:
+//cases give instances of occurances in a code 
 				funds(sum);
 				break;
 			case 2:
